@@ -1,1 +1,0 @@
-This script is a FiveM server-side Lua script designed to provide new players with a starter vehicle (specifically an Asbo) upon joining the server if they don’t already own one. The script ensures that each vehicle has a unique license plate and manages vehicle data using a MySQL database with 
